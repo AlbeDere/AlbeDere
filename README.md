@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **a.derevski@outlook.com**
 
-- ⚡ Fun fact **I'm sometimes funny**
+- ⚡ **I'm sometimes funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
