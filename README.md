@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Ecommerce website](https://github.com/AlbeDere/ecomerce_web)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/AlbeDere?tab=repositories)
 
