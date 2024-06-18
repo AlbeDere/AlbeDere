@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋 My name is Albert Derevski</h1>
-<h3 align="left">I am an enthusiastic developer from Estonia with a recent background in hardware development and programming. I am currently furthering my education at a Software Developer Academy. My primary technology stack is centered around Python, where I focus on developing reliable and efficient applications.</h3>
+<h3 align="left">I am an enthusiastic developer from Estonia with a background in hardware development and programming. I have completed my studies at TalTech and the Software Developer Academy, and I am currently pursuing an internship. My primary focus is on Python, specializing in developing reliable and efficient applications.</h3>
 
-<h3 align="left"> In my free time, I enjoy solving challenges on HackerRank, which enhances my algorithmic and programming skills.</h3>
+<h3 align="left"> In my free time, I enjoy solving challenges on HackerRank and Leetcode, which enhances my algorithmic and programming skills.</h3>
 
 - 🔭 I’m currently working on [Spam detection model](https://github.com/AlbeDere/Spam_Detection)
 
