@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/AlbeDere?tab=repositories)
 
-- 📫 How to reach me **a.derevski@outlook.com**
+- 📫 How to reach me **a.derevski@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
