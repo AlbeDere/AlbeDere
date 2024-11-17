@@ -3,7 +3,7 @@
 
 <h3 align="left"> In my free time, I enjoy solving challenges on HackerRank and Leetcode, which enhances my algorithmic and programming skills.</h3>
 
-- 🔭 I’m currently working on [Spam detection model](https://github.com/AlbeDere/Spam_Detection)
+- 🔭 I’m currently working on [Spam detection model](https://github.com/AlbeDere/MyTwinHelper)
 
 - 🌱 I’m currently learning **Machine Learning**
 
